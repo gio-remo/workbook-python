@@ -1,0 +1,1 @@
+Notes and exercises from the course [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/7ee7a071b586d6861d5641c183dabd6d647a786b) by DataCamp.
